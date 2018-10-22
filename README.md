@@ -1,0 +1,2 @@
+# myFirstApp
+Learning Ionic
